@@ -1,0 +1,9 @@
+export 'package:get/get.dart';
+export 'package:flutter/material.dart';
+export 'package:aglitter_snow/modules/splash/splash_controller.dart';
+export 'package:aglitter_snow/modules/home/controllers/home_controller.dart';
+export 'package:aglitter_snow/modules/home/views/homepage_screen.dart';
+export 'package:aglitter_snow/modules/splash/splash_screen.dart';
+export 'modules/home/bindings/home_binding.dart';
+export 'modules/splash/splash_binding.dart';
+export 'package:aglitter_snow/app_routes/app_routes.dart';
