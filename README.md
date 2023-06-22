@@ -1,5 +1,5 @@
 # aglitter_snow
 
-£ New Getx App 
+# New Getx App 
 
 # Davinder Singh
